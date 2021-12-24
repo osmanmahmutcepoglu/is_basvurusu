@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71f24147-4fb7-4932-92b5-83891ffe3661" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hpgbAfRNNJhXIwaPUc6c8g7fpJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71f24147-4fb7-4932-92b5-83891ffe3661" name="Default Changelist" comment="" />
+      <created>1600713516628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600713516628</updated>
+      <workItem from="1600713517663" duration="1069000" />
+      <workItem from="1600950191972" duration="2940000" />
+      <workItem from="1601319523659" duration="191000" />
+      <workItem from="1601319738030" duration="282000" />
+      <workItem from="1602000808498" duration="1136000" />
+      <workItem from="1602165476956" duration="2641000" />
+      <workItem from="1603103585647" duration="1205000" />
+      <workItem from="1603106022960" duration="6829000" />
+      <workItem from="1603119395549" duration="19520000" />
+      <workItem from="1603184277634" duration="21371000" />
+      <workItem from="1603213705558" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1603147029020">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603147029020" />
+    <state x="336" y="361" key="#SQL_Dialects" timestamp="1600952720579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="336" y="361" key="#SQL_Dialects/0.0.1920.1040/-1600.0.1600.984@0.0.1920.1040" timestamp="1600952720579" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600952725709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1600.0.1600.984@0.0.1920.1040" timestamp="1600952725709" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1603199138290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603199138290" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1603107252017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603107252017" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1600.0.1600.984@0.0.1920.1040" timestamp="1600953094302" />
+    <state x="1147" y="256" width="585" height="534" key="find.popup" timestamp="1602166524490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1147" y="256" width="585" height="534" key="find.popup/0.0.1920.1040/-1600.0.1600.984@0.0.1920.1040" timestamp="1602166524490" />
+  </component>
+</project>
